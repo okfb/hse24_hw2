@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/abacbd58-023b-45c4-8c68-5cc1968413c6)# Домашняя работа numero dos
+# Домашняя работа numero dos
 ## Блокнот с подготовкой данных:
 [https://colab.research.google.com/drive/1hJDsr6qMOo3UcQBavdwpfVHizeo0yV04?hl=ru-ru#scrollTo=2rjv7tkS-qTk](https://colab.research.google.com/drive/1hJDsr6qMOo3UcQBavdwpfVHizeo0yV04?usp=sharing)
 
